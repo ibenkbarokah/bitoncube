@@ -5487,6 +5487,15 @@ input:-internal-autofill-selected{
 
 }
 
+.widget-box{
+  background-color: #000;
+  padding: 50px;
+  margin-top: 80px;
+}
+
+.service-description{
+  min-height: 148px;
+}
 
 
 
@@ -5502,11 +5511,7 @@ input:-internal-autofill-selected{
   .site-header{
     background-color: rgb(0 0 0 / 80%);
   }
+  .widget-box{
+    margin-top: 0px;
+  }
 }
-
-
-
-
-
-
-
